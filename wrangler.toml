@@ -1,0 +1,3 @@
+name = "sveltia-cms-auth42"
+main = "src/index.js"
+compatibility_date = "2023-03-24"
